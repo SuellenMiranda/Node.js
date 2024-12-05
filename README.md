@@ -6,3 +6,6 @@
 * Se estivermos ansiosos quanto as novas funcionalidades, podemos obter a Node.js [v23.3.0^1](https://nodejs.org/dist/v23.3.0/node-v23.3.0-x64.msi).
 
 Podemos saber mais do que a Node.js é capaz de oferecer com os nossos [materiais de aprendizado](https://nodejs.org/pt/learn).
+
+---
+Alternatively, follow the instructons at [https://github.com/nodejs/node-gyp#on-windows](https://github.com/nodejs/node-gyp#on-windows) to install the dependencies yoursel.
